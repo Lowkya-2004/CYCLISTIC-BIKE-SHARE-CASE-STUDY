@@ -33,6 +33,22 @@ Analyze – Identify patterns and differences between rider types.
 Share – Present insights using charts and visualizations.
 Act – Provide recommendations to convert casual riders into annual members.
 
+## 🔗 Required Links
+
+Due to the **large file size of the datasets and Tableau packaged workbook (.twbx)**, these files could not be uploaded directly to this GitHub repository.
+
+Therefore, the required project resources have been shared through links in the **Links Required.docx** file included in this repository.
+
+The document contains links to:
+
+* Dataset
+* Tableau Data Visualizations
+* BigQuery Analysis Queries
+* Data License Agreement
+
+Please refer to **Links Required.docx** to access the complete project resources.
+
+
 
 # Author
 
